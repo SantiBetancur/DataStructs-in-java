@@ -1,0 +1,179 @@
+Cartagena -> Medellin: 400
+Medellin -> Bogota: 300
+Bogota -> Cali: 600
+Cali -> Cartagena: 800
+Cartagena -> Barranquilla: 200
+Medellin -> Pereira: 150
+Bogota -> Manizales: 400
+Cali -> Pasto: 700
+Barranquilla -> Santa Marta: 100
+Pereira -> Armenia: 80
+Manizales -> Ibague: 250
+Pasto -> Popayan: 150
+Santa Marta -> Riohacha: 120
+Armenia -> Neiva: 300
+Ibague -> Villavicencio: 180
+Popayan -> Cali: 200
+Riohacha -> Valledupar: 180
+Neiva -> Tunja: 220
+Villavicencio -> Yopal: 120
+Valledupar -> Monteria: 150
+Tunja -> Bucaramanga: 160
+Yopal -> Arauca: 200
+Monteria -> Sincelejo: 100
+Bucaramanga -> Cucuta: 280
+Arauca -> Puerto Carreno: 300
+Sincelejo -> Cartagena: 150
+Cucuta -> Pamplona: 70
+Pamplona -> Bucaramanga: 90
+Puerto Carreno -> Inirida: 200
+Barranquilla -> Cartagena: 120
+Bogota -> Tunja: 80
+Cali -> Buenaventura: 90
+Medellin -> Manizales: 200
+Manizales -> Pereira: 80
+Santa Marta -> Cartagena: 150
+Neiva -> Bogota: 250
+Villavicencio -> Bogota: 120
+Ibague -> Cali: 180
+Bucaramanga -> Barrancabermeja: 60
+Pereira -> Medellin: 150
+Popayan -> Neiva: 100
+Cucuta -> Ocania: 220
+Valledupar -> Santa Marta: 200
+Arauca -> Saravena: 50
+Yopal -> Villavicencio: 90
+Monteria -> Cartagena: 120
+Sincelejo -> Monteria: 80
+Puerto Carreno -> Tame: 100
+Inirida -> Mitu: 120
+Mitú -> Leticia: 300
+Leticia -> Tabatinga: 50
+Tabatinga -> Manaus: 400
+Manaus -> Porto Velho: 300
+Porto Velho -> Rio Branco: 250
+Rio Branco -> Cruzeiro do Sul: 150
+Cruzeiro do Sul -> Pucallpa: 200
+Pucallpa -> Iquitos: 300
+Iquitos -> Yurimaguas: 150
+Yurimaguas -> Tarapoto: 120
+Tarapoto -> Moyobamba: 80
+Moyobamba -> Juanjui: 100
+Juanjui -> Tocache: 90
+Tocache -> Rioja: 70
+Rioja -> Bellavista: 120
+Bellavista -> Yurimaguas: 90
+Yurimaguas -> Requena: 80
+Requena -> Contamana: 100
+Contamana -> Pucallpa: 120
+Pucallpa -> Atalaya: 180
+Atalaya -> Sepahua: 70
+Sepahua -> Iberia: 80
+Iberia -> Puerto Esperanza: 60
+Puerto Esperanza -> Caballococha: 90
+Caballococha -> Santa Rosa: 120
+Santa Rosa -> Letícia: 80
+Letícia -> Ipiales: 300
+Ipiales -> Pasto: 70
+Pasto -> Mocoa: 150
+Mocoa -> Puerto Asís: 90
+Puerto Asís -> Puerto Caicedo: 120
+Puerto Caicedo -> La Hormiga: 70
+La Hormiga -> San Miguel: 80
+San Miguel -> Santiago: 60
+Santiago -> Puerto Leguizamo: 90
+Puerto Leguizamo -> La Tagua: 100
+La Tagua -> Araracuara: 120
+Araracuara -> Solano: 80
+Solano -> Puerto Rico: 100
+Puerto Rico -> Puerto Santander: 90
+Puerto Santander -> La Chorrera: 60
+La Chorrera -> Mitú: 70
+Mitú -> Barrancominas: 100
+Barrancominas -> Caruru: 80
+Caruru -> Taraira: 70
+Taraira -> Yavarate: 120
+Yavarate -> La Macarena: 90
+La Macarena -> San Juan de Arama: 80
+San Juan de Arama -> Mesetas: 100
+Mesetas -> Vista Hermosa: 120
+Vista Hermosa -> Puerto Concordia: 90
+Puerto Concordia -> La Uribe: 70
+La Uribe -> La Montañita: 100
+La Montañita -> La Macarena: 80
+La Macarena -> San José del Guaviare: 120
+San José del Guaviare -> Calamar: 90
+Calamar -> Miraflores: 70
+Miraflores -> San Vicente del Caguán: 100
+San Vicente del Caguán -> Cartagena del Chairá: 120
+Cartagena del Chairá -> Puerto Rico: 90
+Puerto Rico -> El Doncello: 70
+El Doncello -> Albania: 100
+Albania -> Solano: 80
+Solano -> Puerto Caicedo: 120
+Puerto Caicedo -> Puerto Guzmán: 90
+Puerto Guzmán -> Mocoa: 70
+Mocoa -> Sibundoy: 100
+Sibundoy -> Pasto: 80
+Pasto -> Ipiales: 120
+Ipiales -> Túquerres: 90
+Túquerres -> Chachagüí: 70
+Chachagüí -> Buesaco: 100
+Buesaco -> Cumbal: 80
+Cumbal -> Iles: 120
+Iles -> Puerres: 90
+Puerres -> Córdoba: 70
+Córdoba -> San Lorenzo: 100
+San Lorenzo -> La Llanada: 80
+La Llanada -> Yacuanquer: 120
+Yacuanquer -> Sandoná: 90
+Sandoná -> Consacá: 70
+Consacá -> Ospina: 100
+Ospina -> Policarpa: 80
+Policarpa -> La Florida: 120
+La Florida -> Tumaco: 90
+Tumaco -> Barbacoas: 70
+Barbacoas -> Roberto Payán: 100
+Roberto Payán -> Santa Bárbara: 80
+Santa Bárbara -> Túquerres: 120
+Túquerres -> Yacuanquer: 90
+Yacuanquer -> Pasto: 70
+Pasto -> Ipiales: 100
+Ipiales -> Chiles: 80
+Chiles -> Frontera: 120
+Frontera -> Tulcán: 90
+Tulcán -> El Ángel: 70
+El Ángel -> Ibarra: 100
+Ibarra -> Urcuquí: 80
+Urcuquí -> Otavalo: 120
+Otavalo -> Cotacachi: 90
+Cotacachi -> Antonio Ante: 70
+Antonio Ante -> Ibarra: 100
+Ibarra -> Imantag: 80
+Imantag -> Pimampiro: 120
+Pimampiro -> Urcuquí: 90
+Urcuquí -> Otavalo: 70
+Otavalo -> Ibarra: 100
+Ibarra -> Pimampiro: 80
+Pimampiro -> Imantag: 120
+Imantag -> Cotacachi: 90
+Cotacachi -> Antonio Ante: 70
+Antonio Ante -> Ibarra: 100
+Ibarra -> Urcuquí: 80
+Urcuquí -> Otavalo: 120
+Otavalo -> Cotacachi: 90
+Cotacachi -> Antonio Ante: 70
+Antonio Ante -> Ibarra: 100
+Ibarra -> Imantag: 80
+Imantag -> Pimampiro: 120
+Pimampiro -> Urcuquí: 90
+Urcuquí -> Otavalo: 70
+Otavalo -> Ibarra: 100
+Ibarra -> Pimampiro: 80
+Pimampiro -> Imantag: 120
+Imantag -> Cotacachi: 90
+Cotacachi -> Antonio Ante: 70
+Antonio Ante -> Ibarra: 100
+Ibarra -> Urcuquí: 80
+Urcuquí -> Otavalo: 120
+Otavalo -> Cotacachi: 90

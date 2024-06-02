@@ -1,0 +1,12 @@
+. aaaa
+0 . aaa
+0 0 . aa
+0 1 . bb
+1 . bbb
+1 0 . cc
+2 . ccc
+3 . ddd
+3 0 . dd
+3 0 0 . a
+3 0 1 . b
+3 1 . ee
